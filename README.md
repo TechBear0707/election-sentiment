@@ -1,2 +1,2 @@
 # election-sentiment
- Sentiment analysis on tweets surrounding the 2024 presidential election. 
+ Sentiment analysis surrounding the 2024 presidential election. Data sourced using Reddit API. 
