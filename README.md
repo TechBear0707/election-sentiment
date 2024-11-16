@@ -1,4 +1,10 @@
 # election-sentiment
- Sentiment analysis surrounding the 2024 presidential election. Data sourced using Reddit API. Downloadable Power BI file is included in the repository
+ Sentiment analysis surrounding the 2024 presidential election. Data sourced using Reddit API. Downloadable Power BI file is included in the repository. 
 
 ![Candidate Sentiment Dashboard](images/dashboard.png)
+
+## North Star Metrics
+- **Upvotes Per Post** - The number of upvotes per post is a key metric that can be used to gauge the popularity of a post. The higher the number of upvotes, the more popular the post is.
+- **Comments Per Post** - The number of comments per post is another key metric that can be used to gauge the popularity of a post. The higher the number of comments, the more engaging the post is.
+- **Article Title Sentiment** - The sentiment of the article title can be used to gauge the overall sentiment of the post. Scored from 1 to 5; 1 being very negative and 5 being very positive.
+- **Comment Sentiment** - The sentiment of the comments can be used to gauge the overall sentiment of the post. Scored from 1 to 5; 1 being very negative and 5 being very positive. Scored as the mean sentiment of all comments in the post.
